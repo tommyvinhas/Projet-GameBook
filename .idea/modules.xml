@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Projet-GameBook.iml" filepath="$PROJECT_DIR$/Projet-GameBook.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Projet-GameBook-grailsPlugins.iml" filepath="$PROJECT_DIR$/Projet-GameBook-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
