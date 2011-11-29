@@ -1,6 +1,7 @@
 class BootStrap {
-   //lalalal
+
     def init = { servletContext ->
+        //TOTO
     }
     def destroy = {
     }
